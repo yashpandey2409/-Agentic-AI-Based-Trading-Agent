@@ -1,4 +1,4 @@
-# -Agentic-AI-Based-Trading-Agent
+# Agentic-AI-Based-Trading-Agent
 Developed an AI trading agent using Agentic AI and Deep Q-Learning to autonomously make trading decisions. Achieved consistent positive returns post-training, demonstrating market adaptability and decision-making capability.
 
 This project demonstrates the implementation of an AI trading agent using Agentic AI principles and Deep Q-Learning (DQN). The system is designed to make autonomous trading decisions in a simulated stock market environment.
